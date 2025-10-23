@@ -65,7 +65,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Email-contact@exemple.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Email-auguste.deroubaix@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
