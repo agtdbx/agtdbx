@@ -1,7 +1,7 @@
 <h1 align="center"><strong>agtdbx</strong></h1>
 
 <p align="center">
-  Étudiant à <strong>l'école 42</strong> — passionné par la programmation bas niveau, la 3D et le développement de jeux vidéo.  
+  Étudiant à <strong>l'école 42</strong> — passionné par la programmation bas niveau, la 3D et le développement de jeux vidéo.
   J’aime concevoir des systèmes performants, compris de l’intérieur.
 </p>
 
@@ -14,7 +14,6 @@
 - ⚙️ J’aime créer des **moteurs, jeux et systèmes from scratch**
 - 🧩 Étudiant à **42**, où la rigueur du C et des projets bas niveau structure ma façon de coder
 - 🚀 Toujours à la recherche de **performances**, de propreté de code et de compréhension fine des systèmes
-- 📊 En spécialisation **Data Engineering** : SQL avancé, Snowflake, modélisation et transformation de données
 
 ---
 
@@ -54,22 +53,28 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" />
+<img src="" />
 
 ---
 
 ## 🎯 Ce que je recherche
 
 - 👉 Continuer les projets **C / C++**, **moteurs de jeu**, **outils low-level** ou **rendu 3D**
-- 👉 Collaborer sur des projets **Data Engineering**, **pipelines analytiques** ou **transformation de données**
+- 👉 Approfondir ma maitrise de la **Data**, les architectures de moteurs modernes et les techniques de rendu avancées
 - 👉 Échanger avec des développeurs qui aiment autant **comprendre que créer**
 
 ---
 
 ## 📫 Me contacter
 
-<a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+<p align="center">
+  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
 
 ---
 
 [![aderouba's 42 stats](https://badge.mediaplus.ma/darkblue/aderouba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+[![Agtdbx's GitHub stats](https://github-readme-stats.vercel.app/api?username=agtdbx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-khaki-three.vercel.app/api/top-langs/?username=agtdbx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
