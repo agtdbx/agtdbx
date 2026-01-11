@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" />
-<img src="" />
 
 ---
 
