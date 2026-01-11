@@ -1,73 +1,78 @@
 <h1 align="center"><strong>agtdbx</strong></h1>
 
 <p align="center">
-  Étudiant à <strong>l'école 42</strong> — Passionné par la programmation bas niveau, la 3D et les jeux vidéo.  
-  Je code des projets qui allient performance, technique et créativité.
+  Étudiant à <strong>l'école 42</strong> — passionné par la programmation bas niveau, la 3D et le développement de jeux vidéo.  
+  J’aime concevoir des systèmes performants, compris de l’intérieur.
 </p>
 
 ---
 
 ## 🧠 À propos de moi
 
-- 💻 Développeur orienté **C, C++, Python**  
-- 🎮 Intéressé par la **programmation graphique** (OpenGL, Vulkan)  
-- ⚙️ J’aime créer des moteurs, jeux et systèmes à la main  
-- 🧩 Étudiant à **42**, où la rigueur du code forge la créativité  
-- 🚀 Je cherche toujours à repousser les limites de la performance
+- 💻 Développeur orienté **C, C++, Python**
+- 🎮 Intéressé par la **programmation graphique** (OpenGL, Vulkan) et les moteurs de rendu maison
+- ⚙️ J’aime créer des **moteurs, jeux et systèmes from scratch**
+- 🧩 Étudiant à **42**, où la rigueur du C et des projets bas niveau structure ma façon de coder
+- 🚀 Toujours à la recherche de **performances**, de propreté de code et de compréhension fine des systèmes
+- 📊 En spécialisation **Data Engineering** : SQL avancé, Snowflake, modélisation et transformation de données
 
 ---
 
 ## 🧰 Compétences techniques
 
-### 🖥️ Langages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+**Langages principaux**</br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/GLSL-5487A6?logo=OpenGl&logoColor=fff" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></br>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" /></br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
 
-### ⚙️ Technologies & Outils
-<p>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**Domaines**
+- Graphisme temps réel (OpenGL / Vulkan)
+- Développement de moteurs / jeu vidéo
+- Web
+- Data / Ia
+- Programmation système / bas niveau
+
+**Outils & environnements**</br>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></br>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white" /></br>
+<img src="https://img.shields.io/badge/Makefile-e37933?logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Meson-39207c?logo=meson&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" /></br>
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" />
+<img src="" />
 
 ---
 
-## 📊 Statistiques GitHub
+## 🎯 Ce que je recherche
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agtdbx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agtdbx&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🧩 Autres stats sympas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=agtdbx&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
-## 🛰️ Objectifs actuels
-
-- 🔬 Approfondir mes connaissances en **Vulkan** et en **rendu temps réel**  
-- ⚡ Continuer à concevoir des outils performants en **C/C++**  
+- 👉 Continuer les projets **C / C++**, **moteurs de jeu**, **outils low-level** ou **rendu 3D**
+- 👉 Collaborer sur des projets **Data Engineering**, **pipelines analytiques** ou **transformation de données**
+- 👉 Échanger avec des développeurs qui aiment autant **comprendre que créer**
 
 ---
 
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Email-auguste.deroubaix@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
 
 ---
+
 [![aderouba's 42 stats](https://badge.mediaplus.ma/darkblue/aderouba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
