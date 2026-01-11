@@ -67,10 +67,8 @@
 
 ## 📫 Me contacter
 
-<p align="center">
-  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-</p>
+<a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 
 ---
 
