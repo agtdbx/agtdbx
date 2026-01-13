@@ -73,7 +73,7 @@
 
 ---
 
-[![aderouba's 42 stats](https://badge.mediaplus.ma/darkblue/aderouba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 [![Agtdbx's GitHub stats](https://stats-khaki-three.vercel.app/api?username=agtdbx&layout=compact&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://stats-khaki-three.vercel.app/api/top-langs/?username=agtdbx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![aderouba's 42 stats](https://badge.mediaplus.ma/darkblue/aderouba?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
