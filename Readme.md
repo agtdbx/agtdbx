@@ -1,75 +1,67 @@
-<h1 align="center"><strong>agtdbx</strong></h1>
+# agtdbx
 
-<p align="center">
-  Étudiant à <strong>l'école 42</strong> — passionné par la programmation bas niveau, la 3D et le développement de jeux vidéo.
-  J’aime concevoir des systèmes performants, compris de l’intérieur.
-</p>
+**Data Engineer de métier | Développeur bas-niveau & graphique par passion**
+
+Diplômé de l'école 42, j'aborde la Data avec la même rigueur et le même besoin de performance que la programmation système. J'aime concevoir des architectures robustes au travail, et consacrer mon temps libre au développement de moteurs 3D, de jeux et d'outils performants en C++.
 
 ---
 
 ## 🧠 À propos de moi
 
-- 💻 Développeur orienté **C, C++, Python**
-- 🎮 Intéressé par la **programmation graphique** (OpenGL, Vulkan) et les moteurs de rendu maison
-- ⚙️ J’aime créer des **moteurs, jeux et systèmes from scratch**
-- 🧩 Étudiant à **42**, où la rigueur du C et des projets bas niveau structure ma façon de coder
-- 🚀 Toujours à la recherche de **performances**, de propreté de code et de compréhension fine des systèmes
+- 🎓 **Récent diplômé de 42** (Titre RNCP 7 Data, IA, Web). 
+- 💼 Actuellement à la recherche d'un premier poste en tant que **Data Engineer**.
+- 🚀 **Mon approche** : Construire des pipelines de données efficients en appliquant les bonnes pratiques d'optimisation issues du développement logiciel bas niveau.
+- 🎮 **Mes passions techniques** : Le code pur et dur. La création de moteurs de rendu from scratch, la simulation mathématique et le développement de jeux vidéo.
 
 ---
 
-## 🧰 Compétences techniques
+## 📌 Mes Projets Principaux
 
-**Langages principaux**</br>
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/GLSL-5487A6?logo=OpenGl&logoColor=fff" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></br>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" /></br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
+Mon GitHub reflète ma passion pour l'optimisation, l'algorithmique et le graphisme temps réel :
 
-**Domaines**
-- Graphisme temps réel (OpenGL / Vulkan)
-- Développement de moteurs / jeu vidéo
-- Web
-- Data / Ia
-- Programmation système / bas niveau
+- **mod1** : Simulation de fluide calculée en temps réel directement sur le GPU (OpenGL / C++).
+- **ft_vox** : Moteur voxel optimisé avec génération procédurale de terrain (C++ / Vulkan).
+- **Gomoku** : Intelligence artificielle compétitive pour Gomoku avec algorithme MinMax optimisé (C++ / SFML).
+- **maxiRT** : Ray tracer avancé en temps réel en C avec optiques réalistes (C).
+- **libgmath** : Bibliothèque mathématique développée de A à Z (alternative à GLM), compatible OpenGL/Vulkan (C++).
+- **RTB** : Platformer 2D en C++ avec SDL2. Physique, collisions, système de niveaux personnalisables (C++).
 
-**Outils & environnements**</br>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></br>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
-<img src="https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white" /></br>
-<img src="https://img.shields.io/badge/Makefile-e37933?logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Meson-39207c?logo=meson&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" /></br>
-<img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" />
+---
+
+## 🧰 Stack & Outils
+
+**Développement & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Programmation Système & Graphique**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5487A6?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-C43832?style=flat-square&logo=vulkan&logoColor=white)
+
+**Environnement**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🎯 Ce que je recherche
 
-- 👉 Continuer les projets **C / C++**, **moteurs de jeu**, **outils low-level** ou **rendu 3D**
-- 👉 Approfondir ma maitrise de la **Data**, les architectures de moteurs modernes et les techniques de rendu avancées
-- 👉 Échanger avec des développeurs qui aiment autant **comprendre que créer**
+- 👉 Un poste de **Data Engineer** pour concevoir, optimiser et maintenir des architectures de données complexes.
+- 👉 Poursuivre l'apprentissage continu sur des technologies d'ingénierie logicielle et de rendu.
+- 👉 Travailler avec des équipes qui valorisent la compréhension profonde des outils plutôt que leur simple utilisation.
 
 ---
 
 ## 📫 Me contacter
 
-<p align="center">
-  <a href="mailto:auguste.deroubaix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/auguste-deroubaix-27534a226/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-</p>
+- 📧 **Email :** [auguste.deroubaix@gmail.com](mailto:auguste.deroubaix@gmail.com)
+- 💼 **LinkedIn :** [Auguste Deroubaix](https://www.linkedin.com/in/auguste-deroubaix-27534a226/)
 
 ---
 
