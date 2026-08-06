@@ -24,7 +24,7 @@ Mon GitHub reflète ma passion pour l'optimisation, l'algorithmique et le graphi
 - **Gomoku** : Intelligence artificielle compétitive pour Gomoku avec algorithme MinMax optimisé (C++ / SFML).
 - **maxiRT** : Ray tracer avancé en temps réel en C avec optiques réalistes (C).
 - **libgmath** : Bibliothèque mathématique développée de A à Z (alternative à GLM), compatible OpenGL/Vulkan (C++).
-- **RTB** : Platformer 2D en C++ avec SDL2. Physique, collisions, système de niveaux personnalisables (C++).
+- **KFS** : Kernel x86 "from scratch" intégrant un shell basique, un mode saisie libre et la gestion de la gdt (C / Assembleur).
 
 ---
 
